@@ -30,3 +30,9 @@ Achieve a comprehensive website redesign for Every Good Work of North Texas, ens
 2. Enhance breadcrumbs, navigation, and overall style.
 3. Choose colors, imagery, and styles that motivate people to either donate or volunteer through different programs and events.
 
+### Project Timeline
+
+- **Project Length:** One Month, 1 Week
+- **Goal Achievement Deadline:** Very end of the semester.
+
+
