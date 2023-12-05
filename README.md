@@ -69,4 +69,7 @@ Users should care about this project because it addresses the existing challenge
 
 Analyze competitors' website structures, communication styles, and outreach programs. Emphasize unique elements, such as youth-centric initiatives and mentorship programs that focus on getting youth from DFW.
 
+## Tone
+
+A friendly, approachable, and inspiring tone to resonate with young individuals, making them feel connected to the cause.
 
