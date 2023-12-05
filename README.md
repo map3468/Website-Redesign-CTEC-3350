@@ -61,3 +61,8 @@ Users should care about this project because it addresses the existing challenge
 
 - Other volunteer/non-profit organizations specifically focused on acquiring young volunteers to better the DFW area.
 
+### Indirect Competitors
+
+- Other volunteer/non-profit organizations that aren’t necessarily focused on youth and are not in the DFW AREA
+
+
