@@ -73,3 +73,26 @@ Analyze competitors' website structures, communication styles, and outreach prog
 
 A friendly, approachable, and inspiring tone to resonate with young individuals, making them feel connected to the cause.
 
+### Adjectives
+
+Inspiring, inclusive, engaging, and community-driven.
+
+## Message
+
+Craft a message that emphasizes Every Good Work's commitment to empowering and mobilizing young volunteers to make a positive impact on the DFW community. Highlight the organization's unique programs, the importance of volunteering, and the tangible difference volunteers can make.
+
+## Visuals
+
+### Image Strategy
+
+Retain all images from the original site. Incorporate new images that align seamlessly with the overall tone and image of the website for a cohesive and visually engaging experience.
+
+## Details
+
+Given that this is a redesign, the existing information on the original site will be preserved. However, there is room for improvement, allowing for paraphrasing and enhancements in grammar and structure.
+
+## People
+
+- **Reporting to:** Mr. Carlos Cucalon | Project Manager
+- **Approving Work:** Mr. Carlos Cucalon | Project Manager
+
