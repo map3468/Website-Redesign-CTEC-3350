@@ -18,3 +18,9 @@ The current website is a bit chaotic, making it hard for visitors to navigate sm
 
 Enhance the website to attract more volunteers and encourage increased donations. The redesign intends to effectively communicate the significance of our mission, making it compelling for visitors to get involved.
 
+## Project Drivers
+
+### Goals
+
+Achieve a comprehensive website redesign for Every Good Work of North Texas, ensuring enhanced responsiveness and a more streamlined organizational structure.
+
