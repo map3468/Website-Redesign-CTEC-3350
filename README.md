@@ -35,4 +35,17 @@ Achieve a comprehensive website redesign for Every Good Work of North Texas, ens
 - **Project Length:** One Month, 1 Week
 - **Goal Achievement Deadline:** Very end of the semester.
 
+## Target Audience
+
+### Demographics
+
+- **Age:** 10 – 20 years old
+- **Sex:** Both male and female
+- **Education:** Grade school, High School
+- **Technology Competency:** Able to work with a computer and smartphone.
+- **Race:** Diverse.
+- **Income Level:** 62K – 155K per year
+- **Other:** In 2020, the Dallas–Fort Worth metroplex's racial composition was 42% non-Hispanic white, 16% Black or African American, 8% Asian, 3-4% two or more races, and 29% Hispanic or Latino American of any race.
+
+
 
