@@ -51,3 +51,8 @@ Achieve a comprehensive website redesign for Every Good Work of North Texas, ens
 
 Current perceptions may reflect a sense of disorganization and chaos on the website. Users most likely find it challenging to navigate and may experience frustration due to the current setup.
 
+### Importance of the Project
+
+Users should care about this project because it addresses the existing challenges on the website. The redesign aims to alleviate issues related to disorganization, making it easier for users to find information, engage with content, and contribute to the organization's mission.
+
+
