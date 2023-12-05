@@ -24,3 +24,9 @@ Enhance the website to attract more volunteers and encourage increased donations
 
 Achieve a comprehensive website redesign for Every Good Work of North Texas, ensuring enhanced responsiveness and a more streamlined organizational structure.
 
+### Objectives
+
+1. Deliver a website that improves over its predecessor, acquiring more donations and volunteers.
+2. Enhance breadcrumbs, navigation, and overall style.
+3. Choose colors, imagery, and styles that motivate people to either donate or volunteer through different programs and events.
+
