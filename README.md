@@ -55,4 +55,9 @@ Current perceptions may reflect a sense of disorganization and chaos on the webs
 
 Users should care about this project because it addresses the existing challenges on the website. The redesign aims to alleviate issues related to disorganization, making it easier for users to find information, engage with content, and contribute to the organization's mission.
 
+## Competitors
+
+### Direct Competitors
+
+- Other volunteer/non-profit organizations specifically focused on acquiring young volunteers to better the DFW area.
 
