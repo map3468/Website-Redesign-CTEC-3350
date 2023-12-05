@@ -9,3 +9,7 @@
 ### Project Type
 
 **Website Redesign**
+
+### Reason for Project
+
+The current website is a bit chaotic, making it hard for visitors to navigate smoothly. The goal of this project is to bring order and clarity to the design. We aim for a website that not only looks clean and organized but also ensures a user-friendly experience, making information easy to find and understand.
