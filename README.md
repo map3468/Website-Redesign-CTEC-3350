@@ -47,5 +47,7 @@ Achieve a comprehensive website redesign for Every Good Work of North Texas, ens
 - **Income Level:** 62K – 155K per year
 - **Other:** In 2020, the Dallas–Fort Worth metroplex's racial composition was 42% non-Hispanic white, 16% Black or African American, 8% Asian, 3-4% two or more races, and 29% Hispanic or Latino American of any race.
 
+### Current Perceptions
 
+Current perceptions may reflect a sense of disorganization and chaos on the website. Users most likely find it challenging to navigate and may experience frustration due to the current setup.
 
