@@ -65,4 +65,8 @@ Users should care about this project because it addresses the existing challenge
 
 - Other volunteer/non-profit organizations that aren’t necessarily focused on youth and are not in the DFW AREA
 
+### Strategy
+
+Analyze competitors' website structures, communication styles, and outreach programs. Emphasize unique elements, such as youth-centric initiatives and mentorship programs that focus on getting youth from DFW.
+
 
